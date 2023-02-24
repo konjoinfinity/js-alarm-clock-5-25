@@ -1,7 +1,9 @@
 # Build a 25 + 5 Clock
 
-
 #### My codepen - https://codepen.io/konjoinfinity/pen/LYJPwYm
+
+![Screen Shot 2023-02-24 at 6 54 29 PM](https://user-images.githubusercontent.com/46323883/221322720-1cd03a22-8b5a-4e40-a6b9-3de827fd0bb4.png)
+
 
 ## Objective: Build an app that is functionally similar to this: https://25--5-clock.freecodecamp.rocks.
 
